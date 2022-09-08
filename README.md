@@ -10,11 +10,7 @@ Use `ElfrOpenBELW` could make us did it.
 
 ![image-20220906202316168](https://images-1258433570.cos.ap-beijing.myqcloud.com/imagesimage-20220906202316168.png)
 
-You also could make it useful for python via the excellent impacket :D
-
-
-
-
+Besides the C-based POC, an impacket-based python version is also available as `cheese.py`.
 
 #### reference
 
